@@ -36,4 +36,8 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/RiShiKaRoRa22/pandas/tree/master/0326-power-of-three) |
+## String
+|  |
+| ------- |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/RiShiKaRoRa22/pandas/tree/master/2346-largest-3-same-digit-number-in-string) |
 <!---LeetCode Topics End-->
