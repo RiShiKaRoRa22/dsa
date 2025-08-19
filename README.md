@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/RiShiKaRoRa22/pandas/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/RiShiKaRoRa22/pandas/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/RiShiKaRoRa22/pandas/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RiShiKaRoRa22/pandas/tree/master/0342-power-of-four) |
 ## Array
@@ -43,6 +44,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/RiShiKaRoRa22/pandas/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/RiShiKaRoRa22/pandas/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RiShiKaRoRa22/pandas/tree/master/0342-power-of-four) |
 | [1448-maximum-69-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/1448-maximum-69-number) |
