@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RiShiKaRoRa22/pandas/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/RiShiKaRoRa22/pandas/tree/master/0078-subsets) |
 | [0907-koko-eating-bananas](https://github.com/RiShiKaRoRa22/pandas/tree/master/0907-koko-eating-bananas) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/RiShiKaRoRa22/pandas/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -62,6 +63,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/RiShiKaRoRa22/pandas/tree/master/0078-subsets) |
 | [0342-power-of-four](https://github.com/RiShiKaRoRa22/pandas/tree/master/0342-power-of-four) |
 ## Two Pointers
 |  |
@@ -84,4 +86,5 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/RiShiKaRoRa22/pandas/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/RiShiKaRoRa22/pandas/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
