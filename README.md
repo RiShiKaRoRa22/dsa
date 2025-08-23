@@ -9,6 +9,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/RiShiKaRoRa22/pandas/tree/master/0138-copy-list-with-random-pointer) |
 | [0229-majority-element-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0229-majority-element-ii) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/RiShiKaRoRa22/pandas/tree/master/1392-find-the-difference-of-two-arrays) |
+| [2413-smallest-number-in-infinite-set](https://github.com/RiShiKaRoRa22/pandas/tree/master/2413-smallest-number-in-infinite-set) |
 ## Linked List
 |  |
 | ------- |
@@ -97,4 +98,16 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0229-majority-element-ii) |
+## Design
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/RiShiKaRoRa22/pandas/tree/master/2413-smallest-number-in-infinite-set) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/RiShiKaRoRa22/pandas/tree/master/2413-smallest-number-in-infinite-set) |
+## Ordered Set
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/RiShiKaRoRa22/pandas/tree/master/2413-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
