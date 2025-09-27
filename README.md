@@ -15,6 +15,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/RiShiKaRoRa22/pandas/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2413-smallest-number-in-infinite-set](https://github.com/RiShiKaRoRa22/pandas/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/RiShiKaRoRa22/pandas/tree/master/2428-equal-row-and-column-pairs) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/RiShiKaRoRa22/pandas/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Linked List
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/RiShiKaRoRa22/pandas/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2428-equal-row-and-column-pairs](https://github.com/RiShiKaRoRa22/pandas/tree/master/2428-equal-row-and-column-pairs) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/RiShiKaRoRa22/pandas/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0229-majority-element-ii) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/RiShiKaRoRa22/pandas/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Design
 |  |
 | ------- |
