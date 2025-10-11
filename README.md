@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/RiShiKaRoRa22/pandas/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/RiShiKaRoRa22/pandas/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RiShiKaRoRa22/pandas/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/RiShiKaRoRa22/pandas/tree/master/0138-copy-list-with-random-pointer) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/RiShiKaRoRa22/pandas/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -101,6 +102,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/RiShiKaRoRa22/pandas/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/RiShiKaRoRa22/pandas/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/RiShiKaRoRa22/pandas/tree/master/0567-permutation-in-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/RiShiKaRoRa22/pandas/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
