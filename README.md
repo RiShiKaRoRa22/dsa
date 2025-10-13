@@ -68,6 +68,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/RiShiKaRoRa22/pandas/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/RiShiKaRoRa22/pandas/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/RiShiKaRoRa22/pandas/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/RiShiKaRoRa22/pandas/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiShiKaRoRa22/pandas/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/RiShiKaRoRa22/pandas/tree/master/0198-house-robber) |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/RiShiKaRoRa22/pandas/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/RiShiKaRoRa22/pandas/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/RiShiKaRoRa22/pandas/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/RiShiKaRoRa22/pandas/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/RiShiKaRoRa22/pandas/tree/master/0326-power-of-three) |
@@ -228,4 +230,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RiShiKaRoRa22/pandas/tree/master/0225-implement-stack-using-queues) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/RiShiKaRoRa22/pandas/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
