@@ -7,6 +7,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0138-copy-list-with-random-pointer](https://github.com/RiShiKaRoRa22/pandas/tree/master/0138-copy-list-with-random-pointer) |
+| [0142-linked-list-cycle-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0142-linked-list-cycle-ii) |
 | [0229-majority-element-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/RiShiKaRoRa22/pandas/tree/master/0424-longest-repeating-character-replacement) |
@@ -25,6 +26,7 @@
 | [0061-rotate-list](https://github.com/RiShiKaRoRa22/pandas/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RiShiKaRoRa22/pandas/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/RiShiKaRoRa22/pandas/tree/master/0138-copy-list-with-random-pointer) |
+| [0142-linked-list-cycle-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0142-linked-list-cycle-ii) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/RiShiKaRoRa22/pandas/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Database
 |  |
@@ -125,6 +127,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/RiShiKaRoRa22/pandas/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/RiShiKaRoRa22/pandas/tree/master/0075-sort-colors) |
+| [0142-linked-list-cycle-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/RiShiKaRoRa22/pandas/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/RiShiKaRoRa22/pandas/tree/master/0567-permutation-in-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/RiShiKaRoRa22/pandas/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
