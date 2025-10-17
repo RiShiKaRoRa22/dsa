@@ -8,6 +8,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0138-copy-list-with-random-pointer](https://github.com/RiShiKaRoRa22/pandas/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/RiShiKaRoRa22/pandas/tree/master/0424-longest-repeating-character-replacement) |
@@ -52,6 +53,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiShiKaRoRa22/pandas/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RiShiKaRoRa22/pandas/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RiShiKaRoRa22/pandas/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/RiShiKaRoRa22/pandas/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0213-house-robber-ii) |
@@ -75,6 +77,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RiShiKaRoRa22/pandas/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
@@ -168,12 +171,14 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/RiShiKaRoRa22/pandas/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/0268-missing-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RiShiKaRoRa22/pandas/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0229-majority-element-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/RiShiKaRoRa22/pandas/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Design
