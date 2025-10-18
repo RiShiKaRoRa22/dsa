@@ -13,7 +13,7 @@ class Solution {
         }
         return max;*/ //brute force TLE
 
-        int buy=prices[0];
+        /*int buy=prices[0];
         int sell=0;
         int max=0;
         for(int i=0;i<prices.length;i++){
@@ -26,7 +26,23 @@ class Solution {
 
 
         }
-        return max;
+        return max;*/
+
+        int buy=prices[0];
+        int sell=prices[0];
+        int maxx=0;
+
+        for(int x: prices){
+            if(x<buy){
+                buy=x;
+            }
+            int price= x-buy;
+            maxx= Math.max(maxx,price);
+        }
+        return maxx;
+
+        
+
 
 
 
