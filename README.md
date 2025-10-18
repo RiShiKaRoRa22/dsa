@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/RiShiKaRoRa22/pandas/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/RiShiKaRoRa22/pandas/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/0169-majority-element) |
@@ -48,6 +49,7 @@
 | [0046-permutations](https://github.com/RiShiKaRoRa22/pandas/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/RiShiKaRoRa22/pandas/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/RiShiKaRoRa22/pandas/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/RiShiKaRoRa22/pandas/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/RiShiKaRoRa22/pandas/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/RiShiKaRoRa22/pandas/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiShiKaRoRa22/pandas/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -200,6 +202,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/RiShiKaRoRa22/pandas/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0240-search-a-2d-matrix-ii) |
 | [0870-magic-squares-in-grid](https://github.com/RiShiKaRoRa22/pandas/tree/master/0870-magic-squares-in-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/RiShiKaRoRa22/pandas/tree/master/2428-equal-row-and-column-pairs) |
