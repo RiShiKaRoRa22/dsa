@@ -48,6 +48,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/RiShiKaRoRa22/pandas/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/RiShiKaRoRa22/pandas/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/RiShiKaRoRa22/pandas/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/RiShiKaRoRa22/pandas/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/RiShiKaRoRa22/pandas/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/RiShiKaRoRa22/pandas/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/RiShiKaRoRa22/pandas/tree/master/0073-set-matrix-zeroes) |
@@ -98,6 +99,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/RiShiKaRoRa22/pandas/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/RiShiKaRoRa22/pandas/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/RiShiKaRoRa22/pandas/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/RiShiKaRoRa22/pandas/tree/master/0070-climbing-stairs) |
@@ -204,6 +206,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/RiShiKaRoRa22/pandas/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/RiShiKaRoRa22/pandas/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0240-search-a-2d-matrix-ii) |
 | [0870-magic-squares-in-grid](https://github.com/RiShiKaRoRa22/pandas/tree/master/0870-magic-squares-in-grid) |
