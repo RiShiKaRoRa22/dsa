@@ -122,6 +122,7 @@
 | [0205-isomorphic-strings](https://github.com/RiShiKaRoRa22/pandas/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/RiShiKaRoRa22/pandas/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/RiShiKaRoRa22/pandas/tree/master/0567-permutation-in-string) |
+| [0812-rotate-string](https://github.com/RiShiKaRoRa22/pandas/tree/master/0812-rotate-string) |
 | [1023-time-based-key-value-store](https://github.com/RiShiKaRoRa22/pandas/tree/master/1023-time-based-key-value-store) |
 | [1078-remove-outermost-parentheses](https://github.com/RiShiKaRoRa22/pandas/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/RiShiKaRoRa22/pandas/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -318,4 +319,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RiShiKaRoRa22/pandas/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/RiShiKaRoRa22/pandas/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
