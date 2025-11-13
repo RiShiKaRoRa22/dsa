@@ -5,6 +5,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/RiShiKaRoRa22/pandas/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/RiShiKaRoRa22/pandas/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/RiShiKaRoRa22/pandas/tree/master/0128-longest-consecutive-sequence) |
@@ -103,6 +104,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/RiShiKaRoRa22/pandas/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/RiShiKaRoRa22/pandas/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/RiShiKaRoRa22/pandas/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/RiShiKaRoRa22/pandas/tree/master/0062-unique-paths) |
@@ -117,6 +119,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/RiShiKaRoRa22/pandas/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/RiShiKaRoRa22/pandas/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/RiShiKaRoRa22/pandas/tree/master/0022-generate-parentheses) |
