@@ -78,6 +78,7 @@
 | [0268-missing-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/RiShiKaRoRa22/pandas/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RiShiKaRoRa22/pandas/tree/master/0540-single-element-in-a-sorted-array) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/RiShiKaRoRa22/pandas/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0739-daily-temperatures](https://github.com/RiShiKaRoRa22/pandas/tree/master/0739-daily-temperatures) |
 | [0870-magic-squares-in-grid](https://github.com/RiShiKaRoRa22/pandas/tree/master/0870-magic-squares-in-grid) |
 | [0907-koko-eating-bananas](https://github.com/RiShiKaRoRa22/pandas/tree/master/0907-koko-eating-bananas) |
