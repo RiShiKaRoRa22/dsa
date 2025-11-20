@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RiShiKaRoRa22/pandas/tree/master/0014-longest-common-prefix) |
+| [0031-next-permutation](https://github.com/RiShiKaRoRa22/pandas/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/RiShiKaRoRa22/pandas/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RiShiKaRoRa22/pandas/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/RiShiKaRoRa22/pandas/tree/master/0039-combination-sum) |
@@ -170,6 +171,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RiShiKaRoRa22/pandas/tree/master/0005-longest-palindromic-substring) |
+| [0031-next-permutation](https://github.com/RiShiKaRoRa22/pandas/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/RiShiKaRoRa22/pandas/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/RiShiKaRoRa22/pandas/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0142-linked-list-cycle-ii) |
