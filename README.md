@@ -98,6 +98,7 @@
 | [2428-equal-row-and-column-pairs](https://github.com/RiShiKaRoRa22/pandas/tree/master/2428-equal-row-and-column-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/RiShiKaRoRa22/pandas/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/RiShiKaRoRa22/pandas/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RiShiKaRoRa22/pandas/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/RiShiKaRoRa22/pandas/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Divide and Conquer
 |  |
@@ -135,6 +136,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/RiShiKaRoRa22/pandas/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1448-maximum-69-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/RiShiKaRoRa22/pandas/tree/master/2032-largest-odd-number-in-string) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RiShiKaRoRa22/pandas/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
 |  |
 | ------- |
