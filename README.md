@@ -156,6 +156,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RiShiKaRoRa22/pandas/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/RiShiKaRoRa22/pandas/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/RiShiKaRoRa22/pandas/tree/master/2032-largest-odd-number-in-string) |
+| [2211-count-collisions-on-a-road](https://github.com/RiShiKaRoRa22/pandas/tree/master/2211-count-collisions-on-a-road) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/RiShiKaRoRa22/pandas/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Sliding Window
 |  |
@@ -195,6 +196,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RiShiKaRoRa22/pandas/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/RiShiKaRoRa22/pandas/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RiShiKaRoRa22/pandas/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2211-count-collisions-on-a-road](https://github.com/RiShiKaRoRa22/pandas/tree/master/2211-count-collisions-on-a-road) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/RiShiKaRoRa22/pandas/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Greedy
 |  |
@@ -273,6 +275,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/RiShiKaRoRa22/pandas/tree/master/0054-spiral-matrix) |
+| [2211-count-collisions-on-a-road](https://github.com/RiShiKaRoRa22/pandas/tree/master/2211-count-collisions-on-a-road) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RiShiKaRoRa22/pandas/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RiShiKaRoRa22/pandas/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2428-equal-row-and-column-pairs](https://github.com/RiShiKaRoRa22/pandas/tree/master/2428-equal-row-and-column-pairs) |
