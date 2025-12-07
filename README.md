@@ -139,6 +139,7 @@
 | [0870-magic-squares-in-grid](https://github.com/RiShiKaRoRa22/pandas/tree/master/0870-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/RiShiKaRoRa22/pandas/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1448-maximum-69-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/1448-maximum-69-number) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/RiShiKaRoRa22/pandas/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2032-largest-odd-number-in-string](https://github.com/RiShiKaRoRa22/pandas/tree/master/2032-largest-odd-number-in-string) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/RiShiKaRoRa22/pandas/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RiShiKaRoRa22/pandas/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
