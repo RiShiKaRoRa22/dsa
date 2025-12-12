@@ -110,6 +110,7 @@
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/RiShiKaRoRa22/pandas/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/RiShiKaRoRa22/pandas/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RiShiKaRoRa22/pandas/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/RiShiKaRoRa22/pandas/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/RiShiKaRoRa22/pandas/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Divide and Conquer
 |  |
@@ -152,6 +153,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/RiShiKaRoRa22/pandas/tree/master/2032-largest-odd-number-in-string) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/RiShiKaRoRa22/pandas/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RiShiKaRoRa22/pandas/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/RiShiKaRoRa22/pandas/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## String
 |  |
 | ------- |
@@ -397,6 +399,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/RiShiKaRoRa22/pandas/tree/master/0062-unique-paths) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/RiShiKaRoRa22/pandas/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Union Find
 |  |
 | ------- |
@@ -425,4 +428,8 @@
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/RiShiKaRoRa22/pandas/tree/master/1925-count-square-sum-triples) |
+## Brainteaser
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/RiShiKaRoRa22/pandas/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
