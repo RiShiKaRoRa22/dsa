@@ -350,6 +350,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RiShiKaRoRa22/pandas/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0547-number-of-provinces](https://github.com/RiShiKaRoRa22/pandas/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/RiShiKaRoRa22/pandas/tree/master/0617-merge-two-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
@@ -374,6 +375,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/RiShiKaRoRa22/pandas/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/RiShiKaRoRa22/pandas/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/RiShiKaRoRa22/pandas/tree/master/0617-merge-two-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
@@ -404,6 +406,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RiShiKaRoRa22/pandas/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/RiShiKaRoRa22/pandas/tree/master/0547-number-of-provinces) |
 ## Trie
 |  |
 | ------- |
@@ -432,4 +435,8 @@
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/RiShiKaRoRa22/pandas/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/RiShiKaRoRa22/pandas/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
