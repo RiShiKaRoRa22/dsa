@@ -83,6 +83,7 @@
 | [0169-majority-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RiShiKaRoRa22/pandas/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/RiShiKaRoRa22/pandas/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/RiShiKaRoRa22/pandas/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/RiShiKaRoRa22/pandas/tree/master/0239-sliding-window-maximum) |
@@ -299,6 +300,7 @@
 | [0054-spiral-matrix](https://github.com/RiShiKaRoRa22/pandas/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RiShiKaRoRa22/pandas/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/RiShiKaRoRa22/pandas/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/RiShiKaRoRa22/pandas/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0240-search-a-2d-matrix-ii) |
 | [0870-magic-squares-in-grid](https://github.com/RiShiKaRoRa22/pandas/tree/master/0870-magic-squares-in-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/RiShiKaRoRa22/pandas/tree/master/2428-equal-row-and-column-pairs) |
@@ -351,6 +353,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RiShiKaRoRa22/pandas/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0200-number-of-islands](https://github.com/RiShiKaRoRa22/pandas/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RiShiKaRoRa22/pandas/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -383,6 +386,7 @@
 | [0101-symmetric-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/RiShiKaRoRa22/pandas/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/RiShiKaRoRa22/pandas/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/RiShiKaRoRa22/pandas/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/RiShiKaRoRa22/pandas/tree/master/0617-merge-two-binary-trees) |
@@ -415,6 +419,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RiShiKaRoRa22/pandas/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/RiShiKaRoRa22/pandas/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/RiShiKaRoRa22/pandas/tree/master/0547-number-of-provinces) |
 ## Trie
 |  |
