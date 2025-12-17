@@ -97,6 +97,7 @@
 | [0739-daily-temperatures](https://github.com/RiShiKaRoRa22/pandas/tree/master/0739-daily-temperatures) |
 | [0870-magic-squares-in-grid](https://github.com/RiShiKaRoRa22/pandas/tree/master/0870-magic-squares-in-grid) |
 | [0907-koko-eating-bananas](https://github.com/RiShiKaRoRa22/pandas/tree/master/0907-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/RiShiKaRoRa22/pandas/tree/master/0994-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RiShiKaRoRa22/pandas/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/RiShiKaRoRa22/pandas/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/RiShiKaRoRa22/pandas/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -303,6 +304,7 @@
 | [0200-number-of-islands](https://github.com/RiShiKaRoRa22/pandas/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0240-search-a-2d-matrix-ii) |
 | [0870-magic-squares-in-grid](https://github.com/RiShiKaRoRa22/pandas/tree/master/0870-magic-squares-in-grid) |
+| [0994-rotting-oranges](https://github.com/RiShiKaRoRa22/pandas/tree/master/0994-rotting-oranges) |
 | [2428-equal-row-and-column-pairs](https://github.com/RiShiKaRoRa22/pandas/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |
@@ -390,6 +392,7 @@
 | [0226-invert-binary-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/RiShiKaRoRa22/pandas/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/RiShiKaRoRa22/pandas/tree/master/0617-merge-two-binary-trees) |
+| [0994-rotting-oranges](https://github.com/RiShiKaRoRa22/pandas/tree/master/0994-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
