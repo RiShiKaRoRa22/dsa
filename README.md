@@ -104,6 +104,7 @@
 | [0717-1-bit-and-2-bit-characters](https://github.com/RiShiKaRoRa22/pandas/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/RiShiKaRoRa22/pandas/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/RiShiKaRoRa22/pandas/tree/master/0739-daily-temperatures) |
+| [0860-lemonade-change](https://github.com/RiShiKaRoRa22/pandas/tree/master/0860-lemonade-change) |
 | [0870-magic-squares-in-grid](https://github.com/RiShiKaRoRa22/pandas/tree/master/0870-magic-squares-in-grid) |
 | [0907-koko-eating-bananas](https://github.com/RiShiKaRoRa22/pandas/tree/master/0907-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/RiShiKaRoRa22/pandas/tree/master/0930-binary-subarrays-with-sum) |
@@ -251,6 +252,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/RiShiKaRoRa22/pandas/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/RiShiKaRoRa22/pandas/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/RiShiKaRoRa22/pandas/tree/master/0860-lemonade-change) |
 | [1448-maximum-69-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/1448-maximum-69-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/RiShiKaRoRa22/pandas/tree/master/2032-largest-odd-number-in-string) |
