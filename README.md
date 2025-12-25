@@ -109,6 +109,7 @@
 | [0870-magic-squares-in-grid](https://github.com/RiShiKaRoRa22/pandas/tree/master/0870-magic-squares-in-grid) |
 | [0907-koko-eating-bananas](https://github.com/RiShiKaRoRa22/pandas/tree/master/0907-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/RiShiKaRoRa22/pandas/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/RiShiKaRoRa22/pandas/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/RiShiKaRoRa22/pandas/tree/master/0994-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RiShiKaRoRa22/pandas/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RiShiKaRoRa22/pandas/tree/master/1248-count-number-of-nice-subarrays) |
@@ -151,6 +152,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiShiKaRoRa22/pandas/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/RiShiKaRoRa22/pandas/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0213-house-robber-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/RiShiKaRoRa22/pandas/tree/master/0931-minimum-falling-path-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
 |  |
@@ -334,6 +336,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/RiShiKaRoRa22/pandas/tree/master/0733-flood-fill) |
 | [0870-magic-squares-in-grid](https://github.com/RiShiKaRoRa22/pandas/tree/master/0870-magic-squares-in-grid) |
+| [0931-minimum-falling-path-sum](https://github.com/RiShiKaRoRa22/pandas/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/RiShiKaRoRa22/pandas/tree/master/0994-rotting-oranges) |
 | [2428-equal-row-and-column-pairs](https://github.com/RiShiKaRoRa22/pandas/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
