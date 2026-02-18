@@ -182,6 +182,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0931-minimum-falling-path-sum](https://github.com/RiShiKaRoRa22/pandas/tree/master/0931-minimum-falling-path-sum) |
@@ -224,6 +225,7 @@
 | [0402-remove-k-digits](https://github.com/RiShiKaRoRa22/pandas/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/RiShiKaRoRa22/pandas/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/RiShiKaRoRa22/pandas/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/RiShiKaRoRa22/pandas/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0812-rotate-string](https://github.com/RiShiKaRoRa22/pandas/tree/master/0812-rotate-string) |
