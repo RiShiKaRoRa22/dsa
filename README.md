@@ -175,6 +175,7 @@
 | [0085-maximal-rectangle](https://github.com/RiShiKaRoRa22/pandas/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/RiShiKaRoRa22/pandas/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiShiKaRoRa22/pandas/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/RiShiKaRoRa22/pandas/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0322-coin-change) |
@@ -222,6 +223,7 @@
 | [0022-generate-parentheses](https://github.com/RiShiKaRoRa22/pandas/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/RiShiKaRoRa22/pandas/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/RiShiKaRoRa22/pandas/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/RiShiKaRoRa22/pandas/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/RiShiKaRoRa22/pandas/tree/master/0424-longest-repeating-character-replacement) |
@@ -340,6 +342,7 @@
 | [0052-n-queens-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/RiShiKaRoRa22/pandas/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0494-target-sum) |
 ## Sorting
