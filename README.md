@@ -188,6 +188,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0931-minimum-falling-path-sum](https://github.com/RiShiKaRoRa22/pandas/tree/master/0931-minimum-falling-path-sum) |
+| [1092-shortest-common-supersequence](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
@@ -235,6 +236,7 @@
 | [0812-rotate-string](https://github.com/RiShiKaRoRa22/pandas/tree/master/0812-rotate-string) |
 | [1023-time-based-key-value-store](https://github.com/RiShiKaRoRa22/pandas/tree/master/1023-time-based-key-value-store) |
 | [1078-remove-outermost-parentheses](https://github.com/RiShiKaRoRa22/pandas/tree/master/1078-remove-outermost-parentheses) |
+| [1092-shortest-common-supersequence](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/RiShiKaRoRa22/pandas/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RiShiKaRoRa22/pandas/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
