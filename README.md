@@ -173,6 +173,7 @@
 | [0064-minimum-path-sum](https://github.com/RiShiKaRoRa22/pandas/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/RiShiKaRoRa22/pandas/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/RiShiKaRoRa22/pandas/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/RiShiKaRoRa22/pandas/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiShiKaRoRa22/pandas/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -223,6 +224,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/RiShiKaRoRa22/pandas/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/RiShiKaRoRa22/pandas/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/RiShiKaRoRa22/pandas/tree/master/0205-isomorphic-strings) |
