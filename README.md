@@ -61,6 +61,7 @@
 | [0002-add-two-numbers](https://github.com/RiShiKaRoRa22/pandas/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/RiShiKaRoRa22/pandas/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/RiShiKaRoRa22/pandas/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/RiShiKaRoRa22/pandas/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RiShiKaRoRa22/pandas/tree/master/0342-power-of-four) |
 ## Array
@@ -202,6 +203,7 @@
 | [0062-unique-paths](https://github.com/RiShiKaRoRa22/pandas/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/RiShiKaRoRa22/pandas/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/RiShiKaRoRa22/pandas/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/RiShiKaRoRa22/pandas/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RiShiKaRoRa22/pandas/tree/master/0342-power-of-four) |
@@ -265,6 +267,7 @@
 | [0078-subsets](https://github.com/RiShiKaRoRa22/pandas/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/RiShiKaRoRa22/pandas/tree/master/0342-power-of-four) |
 | [1009-complement-of-base-10-integer](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/1009-complement-of-base-10-integer) |
