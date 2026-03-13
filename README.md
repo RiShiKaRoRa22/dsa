@@ -267,6 +267,7 @@
 | [0136-single-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/RiShiKaRoRa22/pandas/tree/master/0342-power-of-four) |
+| [1009-complement-of-base-10-integer](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 ## Two Pointers
 |  |
 | ------- |
