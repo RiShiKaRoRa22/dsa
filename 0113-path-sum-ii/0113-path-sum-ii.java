@@ -41,11 +41,11 @@ class Solution {
             return;
         }
        
-        else{
+        
              pathsum(list,c,root.left);
         pathsum(list,c,root.right);
 
-        }
+        
        
         list.remove(list.size()-1);
         
