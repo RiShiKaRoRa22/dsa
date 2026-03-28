@@ -207,6 +207,7 @@
 | [0268-missing-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/RiShiKaRoRa22/pandas/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RiShiKaRoRa22/pandas/tree/master/0342-power-of-four) |
+| [0633-sum-of-square-numbers](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0870-magic-squares-in-grid](https://github.com/RiShiKaRoRa22/pandas/tree/master/0870-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/RiShiKaRoRa22/pandas/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RiShiKaRoRa22/pandas/tree/master/1248-count-number-of-nice-subarrays) |
@@ -285,6 +286,7 @@
 | [0189-rotate-array](https://github.com/RiShiKaRoRa22/pandas/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/RiShiKaRoRa22/pandas/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/RiShiKaRoRa22/pandas/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RiShiKaRoRa22/pandas/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/RiShiKaRoRa22/pandas/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -331,6 +333,7 @@
 | [0268-missing-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RiShiKaRoRa22/pandas/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0907-koko-eating-bananas](https://github.com/RiShiKaRoRa22/pandas/tree/master/0907-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1023-time-based-key-value-store](https://github.com/RiShiKaRoRa22/pandas/tree/master/1023-time-based-key-value-store) |
