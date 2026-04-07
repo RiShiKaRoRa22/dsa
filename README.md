@@ -15,6 +15,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/RiShiKaRoRa22/pandas/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/RiShiKaRoRa22/pandas/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RiShiKaRoRa22/pandas/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/0169-majority-element) |
@@ -101,6 +102,7 @@
 | [0130-surrounded-regions](https://github.com/RiShiKaRoRa22/pandas/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RiShiKaRoRa22/pandas/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RiShiKaRoRa22/pandas/tree/master/0189-rotate-array) |
@@ -181,6 +183,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiShiKaRoRa22/pandas/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/RiShiKaRoRa22/pandas/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0322-coin-change) |
@@ -234,6 +237,7 @@
 | [0127-word-ladder](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0140-word-break-ii) |
 | [0205-isomorphic-strings](https://github.com/RiShiKaRoRa22/pandas/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/RiShiKaRoRa22/pandas/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/RiShiKaRoRa22/pandas/tree/master/0424-longest-repeating-character-replacement) |
@@ -359,6 +363,7 @@
 | [0090-subsets-ii](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0494-target-sum) |
 ## Sorting
@@ -442,6 +447,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/RiShiKaRoRa22/pandas/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0140-word-break-ii) |
 ## Tree
 |  |
 | ------- |
@@ -580,6 +586,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RiShiKaRoRa22/pandas/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0140-word-break-ii) |
 ## String Matching
 |  |
 | ------- |
