@@ -30,6 +30,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0870-magic-squares-in-grid](https://github.com/RiShiKaRoRa22/pandas/tree/master/0870-magic-squares-in-grid) |
 | [0930-binary-subarrays-with-sum](https://github.com/RiShiKaRoRa22/pandas/tree/master/0930-binary-subarrays-with-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RiShiKaRoRa22/pandas/tree/master/0992-subarrays-with-k-different-integers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/RiShiKaRoRa22/pandas/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/RiShiKaRoRa22/pandas/tree/master/1023-time-based-key-value-store) |
@@ -378,6 +379,7 @@
 | [0435-non-overlapping-intervals](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/RiShiKaRoRa22/pandas/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/RiShiKaRoRa22/pandas/tree/master/0455-assign-cookies) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RiShiKaRoRa22/pandas/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RiShiKaRoRa22/pandas/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -471,6 +473,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RiShiKaRoRa22/pandas/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RiShiKaRoRa22/pandas/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
@@ -497,6 +500,7 @@
 | [0733-flood-fill](https://github.com/RiShiKaRoRa22/pandas/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -521,6 +525,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RiShiKaRoRa22/pandas/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RiShiKaRoRa22/pandas/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
@@ -543,6 +548,7 @@
 | [0733-flood-fill](https://github.com/RiShiKaRoRa22/pandas/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/RiShiKaRoRa22/pandas/tree/master/0994-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
