@@ -240,6 +240,7 @@
 | [0139-word-break](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0140-word-break-ii) |
 | [0205-isomorphic-strings](https://github.com/RiShiKaRoRa22/pandas/tree/master/0205-isomorphic-strings) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/RiShiKaRoRa22/pandas/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/RiShiKaRoRa22/pandas/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/RiShiKaRoRa22/pandas/tree/master/0451-sort-characters-by-frequency) |
@@ -396,6 +397,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RiShiKaRoRa22/pandas/tree/master/0225-implement-stack-using-queues) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1023-time-based-key-value-store](https://github.com/RiShiKaRoRa22/pandas/tree/master/1023-time-based-key-value-store) |
 | [2413-smallest-number-in-infinite-set](https://github.com/RiShiKaRoRa22/pandas/tree/master/2413-smallest-number-in-infinite-set) |
 ## Heap (Priority Queue)
@@ -468,6 +470,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RiShiKaRoRa22/pandas/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/RiShiKaRoRa22/pandas/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RiShiKaRoRa22/pandas/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -493,6 +496,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RiShiKaRoRa22/pandas/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/RiShiKaRoRa22/pandas/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/RiShiKaRoRa22/pandas/tree/master/0617-merge-two-binary-trees) |
@@ -520,6 +524,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RiShiKaRoRa22/pandas/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/RiShiKaRoRa22/pandas/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RiShiKaRoRa22/pandas/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -541,6 +546,7 @@
 | [0130-surrounded-regions](https://github.com/RiShiKaRoRa22/pandas/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RiShiKaRoRa22/pandas/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/RiShiKaRoRa22/pandas/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/RiShiKaRoRa22/pandas/tree/master/0617-merge-two-binary-trees) |
