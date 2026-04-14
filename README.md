@@ -146,6 +146,7 @@
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/RiShiKaRoRa22/pandas/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RiShiKaRoRa22/pandas/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1901-find-a-peak-element-ii](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2104-sum-of-subarray-ranges](https://github.com/RiShiKaRoRa22/pandas/tree/master/2104-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RiShiKaRoRa22/pandas/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -349,6 +350,7 @@
 | [1023-time-based-key-value-store](https://github.com/RiShiKaRoRa22/pandas/tree/master/1023-time-based-key-value-store) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RiShiKaRoRa22/pandas/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Backtracking
@@ -426,6 +428,7 @@
 | [0870-magic-squares-in-grid](https://github.com/RiShiKaRoRa22/pandas/tree/master/0870-magic-squares-in-grid) |
 | [0931-minimum-falling-path-sum](https://github.com/RiShiKaRoRa22/pandas/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/RiShiKaRoRa22/pandas/tree/master/0994-rotting-oranges) |
+| [1901-find-a-peak-element-ii](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2428-equal-row-and-column-pairs](https://github.com/RiShiKaRoRa22/pandas/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |
