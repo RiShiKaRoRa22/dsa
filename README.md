@@ -111,6 +111,7 @@
 | [0189-rotate-array](https://github.com/RiShiKaRoRa22/pandas/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/RiShiKaRoRa22/pandas/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/RiShiKaRoRa22/pandas/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0229-majority-element-ii) |
@@ -269,6 +270,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/RiShiKaRoRa22/pandas/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/RiShiKaRoRa22/pandas/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/RiShiKaRoRa22/pandas/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/RiShiKaRoRa22/pandas/tree/master/0567-permutation-in-string) |
@@ -346,6 +348,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RiShiKaRoRa22/pandas/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RiShiKaRoRa22/pandas/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -579,6 +582,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/RiShiKaRoRa22/pandas/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RiShiKaRoRa22/pandas/tree/master/1248-count-number-of-nice-subarrays) |
