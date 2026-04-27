@@ -118,6 +118,7 @@
 | [0239-sliding-window-maximum](https://github.com/RiShiKaRoRa22/pandas/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0274-h-index) |
 | [0322-coin-change](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -388,6 +389,7 @@
 | [0169-majority-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/RiShiKaRoRa22/pandas/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/RiShiKaRoRa22/pandas/tree/master/0455-assign-cookies) |
@@ -653,4 +655,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
