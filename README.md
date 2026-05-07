@@ -165,6 +165,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RiShiKaRoRa22/pandas/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/RiShiKaRoRa22/pandas/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/RiShiKaRoRa22/pandas/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3660-jump-game-ix](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/3660-jump-game-ix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -208,6 +209,7 @@
 | [1092-shortest-common-supersequence](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3660-jump-game-ix](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/3660-jump-game-ix) |
 ## Math
 |  |
 | ------- |
