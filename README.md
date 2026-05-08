@@ -7,6 +7,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/RiShiKaRoRa22/pandas/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/RiShiKaRoRa22/pandas/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/RiShiKaRoRa22/pandas/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/RiShiKaRoRa22/pandas/tree/master/0076-minimum-window-substring) |
@@ -76,6 +77,7 @@
 | [0031-next-permutation](https://github.com/RiShiKaRoRa22/pandas/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/RiShiKaRoRa22/pandas/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RiShiKaRoRa22/pandas/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/RiShiKaRoRa22/pandas/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/RiShiKaRoRa22/pandas/tree/master/0041-first-missing-positive) |
@@ -372,6 +374,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/RiShiKaRoRa22/pandas/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/RiShiKaRoRa22/pandas/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/RiShiKaRoRa22/pandas/tree/master/0046-permutations) |
@@ -432,6 +435,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/RiShiKaRoRa22/pandas/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RiShiKaRoRa22/pandas/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0063-unique-paths-ii) |
