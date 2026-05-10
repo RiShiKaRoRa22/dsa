@@ -161,6 +161,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RiShiKaRoRa22/pandas/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RiShiKaRoRa22/pandas/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/RiShiKaRoRa22/pandas/tree/master/2428-equal-row-and-column-pairs) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/RiShiKaRoRa22/pandas/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/RiShiKaRoRa22/pandas/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/RiShiKaRoRa22/pandas/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -211,6 +212,7 @@
 | [1092-shortest-common-supersequence](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/3660-jump-game-ix) |
 ## Math
 |  |
