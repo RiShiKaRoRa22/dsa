@@ -153,6 +153,7 @@
 | [1539-kth-missing-positive-number](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/RiShiKaRoRa22/pandas/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RiShiKaRoRa22/pandas/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -348,6 +349,7 @@
 | [0455-assign-cookies](https://github.com/RiShiKaRoRa22/pandas/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/RiShiKaRoRa22/pandas/tree/master/0860-lemonade-change) |
 | [1448-maximum-69-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/1448-maximum-69-number) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/RiShiKaRoRa22/pandas/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
@@ -405,6 +407,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/RiShiKaRoRa22/pandas/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/RiShiKaRoRa22/pandas/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RiShiKaRoRa22/pandas/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RiShiKaRoRa22/pandas/tree/master/2392-successful-pairs-of-spells-and-potions) |
