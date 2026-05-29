@@ -59,6 +59,7 @@
 ## Database
 |  |
 | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0585-investments-in-2016](https://github.com/RiShiKaRoRa22/pandas/tree/master/0585-investments-in-2016) |
 ## Recursion
 |  |
