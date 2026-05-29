@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0585-investments-in-2016](https://github.com/RiShiKaRoRa22/pandas/tree/master/0585-investments-in-2016) |
 ## Recursion
 |  |
