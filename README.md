@@ -157,6 +157,7 @@
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/RiShiKaRoRa22/pandas/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1732-find-the-highest-altitude](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RiShiKaRoRa22/pandas/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -611,6 +612,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/RiShiKaRoRa22/pandas/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RiShiKaRoRa22/pandas/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RiShiKaRoRa22/pandas/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1732-find-the-highest-altitude](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/RiShiKaRoRa22/pandas/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/RiShiKaRoRa22/pandas/tree/master/3432-count-partitions-with-even-sum-difference) |
