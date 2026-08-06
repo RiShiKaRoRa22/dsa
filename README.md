@@ -243,6 +243,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/RiShiKaRoRa22/pandas/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/RiShiKaRoRa22/pandas/tree/master/1925-count-square-sum-triples) |
 | [2032-largest-odd-number-in-string](https://github.com/RiShiKaRoRa22/pandas/tree/master/2032-largest-odd-number-in-string) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/RiShiKaRoRa22/pandas/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RiShiKaRoRa22/pandas/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/RiShiKaRoRa22/pandas/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -659,6 +660,7 @@
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/RiShiKaRoRa22/pandas/tree/master/1925-count-square-sum-triples) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Brainteaser
 |  |
 | ------- |
