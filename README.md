@@ -44,6 +44,7 @@
 | [2413-smallest-number-in-infinite-set](https://github.com/RiShiKaRoRa22/pandas/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/RiShiKaRoRa22/pandas/tree/master/2428-equal-row-and-column-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/RiShiKaRoRa22/pandas/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
 | ------- |
@@ -175,6 +176,7 @@
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/RiShiKaRoRa22/pandas/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/RiShiKaRoRa22/pandas/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3660-jump-game-ix](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/3660-jump-game-ix) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
 | ------- |
