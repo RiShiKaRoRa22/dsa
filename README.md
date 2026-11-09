@@ -152,6 +152,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RiShiKaRoRa22/pandas/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RiShiKaRoRa22/pandas/tree/master/1248-count-number-of-nice-subarrays) |
+| [1267-count-servers-that-communicate](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/RiShiKaRoRa22/pandas/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RiShiKaRoRa22/pandas/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -427,6 +428,7 @@
 | [0229-majority-element-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/RiShiKaRoRa22/pandas/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RiShiKaRoRa22/pandas/tree/master/0992-subarrays-with-k-different-integers) |
+| [1267-count-servers-that-communicate](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/RiShiKaRoRa22/pandas/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/RiShiKaRoRa22/pandas/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Design
@@ -466,6 +468,7 @@
 | [0870-magic-squares-in-grid](https://github.com/RiShiKaRoRa22/pandas/tree/master/0870-magic-squares-in-grid) |
 | [0931-minimum-falling-path-sum](https://github.com/RiShiKaRoRa22/pandas/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/RiShiKaRoRa22/pandas/tree/master/0994-rotting-oranges) |
+| [1267-count-servers-that-communicate](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1901-find-a-peak-element-ii](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2428-equal-row-and-column-pairs](https://github.com/RiShiKaRoRa22/pandas/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
@@ -550,6 +553,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -601,6 +605,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/RiShiKaRoRa22/pandas/tree/master/0994-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/1267-count-servers-that-communicate) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -678,6 +683,7 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [1267-count-servers-that-communicate](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/1267-count-servers-that-communicate) |
 ## Graph Theory
 |  |
 | ------- |
